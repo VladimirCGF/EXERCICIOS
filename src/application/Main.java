@@ -28,7 +28,7 @@ public class Main {
         funcionario.aumentoSalario();
         funcionario.salarioAnual();
 
-        System.out.println("NUMEROS DE FUNCIONARIO ATÉ DATA ATUAL: " + funcionario.numeroFuncionarioAno());
+        System.out.println("NUMEROS DE FUNCIONARIO ATÉ DATA ATUAL:  " + funcionario.numeroFuncionarioAno());
 
 
         sc.close();
